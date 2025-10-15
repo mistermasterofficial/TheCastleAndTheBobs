@@ -1,0 +1,8 @@
+{
+    "render_distance":9,
+    "render_fov":120,
+    "render_ray_num":150,
+    "sound_volume":100,
+    "music_volume":100,
+    "sensitivity":0.5
+}
